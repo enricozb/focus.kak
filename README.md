@@ -1,1 +1,1 @@
-# focus.kak
+# zen.kak
